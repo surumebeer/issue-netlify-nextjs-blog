@@ -1,0 +1,28 @@
+{
+  "name": "issue-netlify-nextjs-blog",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "next": "^10.0.4",
+    "react-dom": "^17.0.1",
+    "react": "^17.0.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/surumebeer/issue-netlify-nextjs-blog.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/surumebeer/issue-netlify-nextjs-blog/issues"
+  },
+  "homepage": "https://github.com/surumebeer/issue-netlify-nextjs-blog#readme"
+}
